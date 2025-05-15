@@ -28,7 +28,7 @@ housing\_project/
 
 ## Objective
 
-The project aims to:
+This project aims to:
 
 - Download and load the California housing dataset.
 - Clean and preprocess the data using pipelines and custom transformers.
